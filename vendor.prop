@@ -182,7 +182,7 @@ renderthread.skia.reduceopstasksplitting=true
 
 # SOC
 ro.soc.manufacturer=Qualcomm
-ro.soc.model=SDM450
+ro.soc.model=SDM632
 
 # SurfaceFlinger
 debug.sf.early_phase_offset_ns=1500000
