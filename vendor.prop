@@ -96,9 +96,6 @@ ro.vendor.fm.use_audio_session=true
 # HEH filename encryption is being dropped
 ro.crypto.volume.filenames_mode=aes-256-cts
 
-# OEM Unlock reporting
-ro.oem_unlock_supported=1
-
 # OMX
 # Rank OMX SW codecs lower than OMX HW codecs
 debug.stagefright.omx_default_rank.sw-audio=1
