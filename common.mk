@@ -509,5 +509,7 @@ PRODUCT_PACKAGES += \
     WifiOverlay \
     wpa_supplicant \
     wpa_supplicant.conf \
-    
-    
+
+# Remove packages
+PRODUCT_PACKAGES += \
+    RemovePackages
