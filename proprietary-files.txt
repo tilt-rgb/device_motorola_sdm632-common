@@ -760,6 +760,13 @@ vendor/etc/init/init.time_daemon.rc
 
 # Wi-Fi
 vendor/bin/cnss-daemon
+vendor/lib64/android.hardware.wifi@1.0.so
+vendor/lib64/android.hardware.wifi@1.1.so
+vendor/lib64/android.hardware.wifi@1.2.so
+vendor/lib64/android.hardware.wifi@1.3.so
+vendor/lib64/android.hardware.wifi@1.4.so
+vendor/lib64/android.hardware.wifi@1.5.so
+vendor/lib64/android.hardware.wifi@1.6.so
 
 # Wi-Fi - Firmware
 vendor/etc/motorola/mdmctbk/ctbk_cfg.xml
