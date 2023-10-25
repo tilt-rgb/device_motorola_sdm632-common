@@ -383,7 +383,8 @@ PRODUCT_PACKAGES += \
     android.hardware.radio.deprecated@1.0.vendor \
     android.system.net.netd@1.1.vendor \
     librmnetctl \
-    libprotobuf-cpp-full
+    libprotobuf-cpp-full \
+    android.hardware.secure_element@1.0.vendor:64
 
 # Recovery
 TARGET_RECOVERY_DENSITY := xhdpi
