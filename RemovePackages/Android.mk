@@ -8,8 +8,7 @@ LOCAL_OVERRIDES_PACKAGES := \
     Chrome \
     Drive \
     Gmail2 \
-    Maps \
-    Photos \
+    Maps   \
     Velvet \
     YouTube \
     AndroidAutoStub \
