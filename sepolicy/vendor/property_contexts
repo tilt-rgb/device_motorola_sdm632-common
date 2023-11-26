@@ -71,6 +71,10 @@ ro.hw.radio                u:object_r:vendor_radio_prop:s0
 ro.vendor.ril.svlte1x      u:object_r:vendor_radio_prop:s0
 ro.vendor.ril.svdo         u:object_r:vendor_radio_prop:s0
 
+# Bluetooth
+bluetooth.hfp.client           u:object_r:vendor_bluetooth_prop:s0
+ro.qualcomm.bt.hci_transport   u:object_r:vendor_bluetooth_prop:s0
+
 # Fingerprint
 fpc_kpi u:object_r:vendor_fp_prop:s0
 false_touch_quality u:object_r:vendor_fp_prop:s0
