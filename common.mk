@@ -372,6 +372,10 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES+= \
     vendor.qti.hardware.perf@2.2.vendor
 
+# RemovePackages
+PRODUCT_PACKAGES += \
+    RemovePackages
+
 # QMI
 PRODUCT_PACKAGES += \
     libjson
